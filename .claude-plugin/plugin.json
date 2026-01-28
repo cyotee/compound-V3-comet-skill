@@ -1,0 +1,21 @@
+{
+  "name": "compound-v3-comet",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for Compound V3 Comet protocol development - monolithic money market with single borrowable asset, collateral factors, kinked interest rates, absorb liquidation, rewards, and governance.",
+  "author": {
+    "name": "Compound Labs"
+  },
+  "keywords": [
+    "solidity",
+    "compound",
+    "comet",
+    "defi",
+    "lending",
+    "borrowing",
+    "collateral",
+    "liquidation",
+    "interest-rates",
+    "smart-contracts"
+  ],
+  "license": "BUSL-1.1"
+}
